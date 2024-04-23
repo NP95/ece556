@@ -1,6 +1,6 @@
 # Steiner-Tree Construction
 
-Due: 5/5 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/??????)
+Due: 5/5 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/2278767)
 
 ## Problem Description
 
@@ -82,7 +82,7 @@ Additionally, you need to submit a report that contains the following three sect
 + A section outlining the challenges you encountered and solved during the implementation
 
 Place everything in a single .zip file and submit it to [Course Canvas](https://canvas.wisc.edu/courses/384667/) under the 
-[PA3](https://canvas.wisc.edu/courses/384667/assignments/???????) page. 
+[PA3](https://canvas.wisc.edu/courses/384667/assignments/2278767) page. 
 As we allow you to work in a team of up to 3 members, only one member needs to submit.
 In this case, you will need to *clearly indicate the names of each member in your report*, or
 the other members will receive zero.
