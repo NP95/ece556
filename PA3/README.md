@@ -1,6 +1,6 @@
 # Steiner-Tree Construction
 
-Due: 5/?? 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/??????)
+Due: 5/5 23:59 PM on [Canvas](https://canvas.wisc.edu/courses/384667/assignments/??????)
 
 ## Problem Description
 
